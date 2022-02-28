@@ -1,0 +1,22 @@
+{
+  "name": "pta_software-qa-cypress",
+  "version": "1.0.0",
+  "description": "Pro-Tech Alliance Software QA Engineer - Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pro-Tech-Alliance/PTA_Software-QA-Cypress.git"
+  },
+  "author": "Prof Milo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pro-Tech-Alliance/PTA_Software-QA-Cypress/issues"
+  },
+  "homepage": "https://github.com/Pro-Tech-Alliance/PTA_Software-QA-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
