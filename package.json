@@ -4,5 +4,22 @@
   },
   "devDependencies": {
     "cypress-xpath": "^1.6.2"
-  }
+  },
+  "name": "pta_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pro-Tech-Alliance/PTA_Cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pro-Tech-Alliance/PTA_Cypress/issues"
+  },
+  "homepage": "https://github.com/Pro-Tech-Alliance/PTA_Cypress#readme",
+  "description": ""
 }
